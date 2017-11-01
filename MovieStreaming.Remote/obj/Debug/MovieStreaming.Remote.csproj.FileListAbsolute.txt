@@ -1,0 +1,13 @@
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\MovieStreaming.Remote.exe.config
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\MovieStreaming.Remote.exe
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\MovieStreaming.Remote.pdb
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\Akka.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\MovieStreaming.Common.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\Newtonsoft.Json.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\MovieStreaming.Common.pdb
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\Akka.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\bin\Debug\Newtonsoft.Json.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\obj\Debug\MovieStreaming.Remote.csprojResolveAssemblyReference.cache
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\obj\Debug\MovieStreaming.Remote.csproj.CoreCompileInputs.cache
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\obj\Debug\MovieStreaming.Remote.exe
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Remote\obj\Debug\MovieStreaming.Remote.pdb

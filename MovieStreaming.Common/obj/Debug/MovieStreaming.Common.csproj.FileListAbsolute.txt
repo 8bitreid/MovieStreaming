@@ -1,0 +1,10 @@
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\MovieStreaming.Common.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\MovieStreaming.Common.pdb
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\Akka.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\Newtonsoft.Json.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\Akka.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\bin\Debug\Newtonsoft.Json.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.csprojResolveAssemblyReference.cache
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.csproj.CoreCompileInputs.cache
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming.Common\obj\Debug\MovieStreaming.Common.pdb
