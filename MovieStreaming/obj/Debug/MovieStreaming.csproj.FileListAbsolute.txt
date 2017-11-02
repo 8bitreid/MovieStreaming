@@ -21,3 +21,10 @@ C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Akka.Logger.Serilog.dl
 C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Akka.Logger.Serilog.xml
 C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\MovieStreaming.Common.dll
 C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\MovieStreaming.Common.pdb
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Akka.Remote.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Google.ProtocolBuffers.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Helios.dll
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Akka.Remote.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Google.ProtocolBuffers.xml
+C:\src\GitHubRepo\MovieStreaming\MovieStreaming\bin\Debug\Google.ProtocolBuffers.Serialization.xml
